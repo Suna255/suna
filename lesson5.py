@@ -1,0 +1,13 @@
+a=[1,2,3]
+b=[4,5,6]
+c=3
+#print(a)
+#print(c)
+s=[1]
+#print(s)
+#print(a[1])
+#print(a[0]+a[1])
+a=[-1,-2,-3]
+#print(a[1]+a[2])
+x=[1,2,3]
+print(x[-1])
