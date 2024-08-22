@@ -1,7 +1,7 @@
 theylist=[5,22,10,49,58,2,9,100,6,13] 
 itislist=[]
 for i in theylist:
-    if i<10:
+    if i>10:
          itislist.append(i)
 print(itislist)
 
