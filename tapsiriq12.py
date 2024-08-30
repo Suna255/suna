@@ -10,7 +10,7 @@ print(tup_1[0:3])
 #3
 ## tup_1 = ("alma" , 4 , True , 32 , "salam" , 0) tupleinda sondan 3 elementi cap etmek 
 tup_1=('alma', 4, True, 32, 'salam',0)
-print(tup_1[-3:])
+print(tup_1[-1:-3])
 
 #4
 # ## tup_1 = ("alma" , 4 , True , 32 , "salam" , 0) tupleinda sonuncu elementi cap etmek
