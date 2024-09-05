@@ -28,10 +28,10 @@ print(tuple4)
 
 ## 5 thistuple = ("salam" , 42 ,True , "hi" , False, 91 , 33 , "alma") tuple-ni ele 3 hisseye bolmek ki ilk hissede daha cox element olsun 
 tuple5= ("salam" , 42 ,True , "hi" , False, 91 , 33 , "alma")
-length=len(tuple5)
-print(birinci)
-print(second)
-print(ucuncu)
+(a,b,c)=tuple5
+print(a)
+print(b)
+print(c)
 
 ## thistuple = ("salam" , 42 ,True , "hi") tuple-nin elementlerini ayri ayri cap etmek 
 tuple6=("salam" , 42 ,True , "hi")
