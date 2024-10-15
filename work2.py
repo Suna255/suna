@@ -69,6 +69,10 @@ else:
 print(bool("Hello"))
 print(bool(15))
 
+#19
+a='2'
+b=5
+print(a*b)
 
 
 
