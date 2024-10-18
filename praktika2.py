@@ -2,6 +2,7 @@ import turtle
 wn=turtle.Screen()
 wn.setup(width=500, height=500)
 blue=turtle.Turtle()
+blue.speed(9)  
 def curve():
     for i in range(250):
         blue.right(1)
