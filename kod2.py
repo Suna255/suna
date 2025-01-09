@@ -1,0 +1,5 @@
+s=input("Metin daxil edin")
+herifler=s.split()
+elifbasirasi=sorted(herifler)
+c=" ".join(elifbasirasi)
+print(c)

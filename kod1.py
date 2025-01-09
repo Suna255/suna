@@ -5,3 +5,4 @@ if boyuksozler==tersmetn:
     print('bu soz polonormdu')
 else :
     print('bu soz polonorm deyil')
+    
