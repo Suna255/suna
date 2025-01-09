@@ -30,3 +30,10 @@ print(b)
 
 b=a.copy("mekan")
 print(b)
+
+myfamily={
+    'child1' :{
+        'name' : 'Emil',
+        'year' : 2004
+    },
+}

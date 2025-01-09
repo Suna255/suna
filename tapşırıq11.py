@@ -66,6 +66,15 @@ while i <10:
 #8
 i=1
 while i<10:
-    if i in range(1,11,3)
+    if i in range(1,11,3):
         print(i)
     i=i+2
+
+#1
+#list ve tuple ikiside deyisenleri gosterir.Ferqleri ise liste deyisen elave edeib silmek olur.Tuple ise olmur.list []
+#tuple ().
+
+#2
+## tup_1 = ("alma" , 4 , True , 32 , "salam" , 0) tupleinda almadan 32 e qeder elementleri cap etmek 
+tup_1=('alma', 4, True, 32, 'salam',0)
+print(tup_1[0:3])

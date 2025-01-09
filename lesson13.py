@@ -22,4 +22,5 @@ print(red)
 tuple1=('apple', 4, 'banans', True,33,77)
 for i in tuple1:
     print(i)
-    
+
+tuple1=('apple', 4, 'banans', True,33,77)
