@@ -1,5 +1,5 @@
-count=0
-for i in range(3):
-    for j in range(i):
-        count+=1
-print(count)
+n=int(input('Enter a number:  '))
+factorial=1
+for i in range(1,n+1):
+    factorial *= i
+print('Factorial of', n, 'is',factorial)
