@@ -1,25 +1,16 @@
-#1
-#a='9'
-#b='4'
-#print(a*b) #error
+#ad= input('Muhammed')
+#yemek=input('dolma')
+#print('ad  ' + 'yemek ' +'sever')
+
 #2
-num=5
-#print(num+'5') #error
+#isim='Memmedova Sonaxanim '
+#print(isim.title())
+#print(isim.upper())
+#print(isim.lower())
+#print(isim.find('m'))
+#next_isim=isim.replace('Sonaxanim','Suna')
+#print(next_isim)
+
 #3
-#x='python'
-#print(y) #error
-#4
-x=5
-#if x>3:
-# print('Greater')
-#else:
-# print('Smaller') #error
- #5
-#fruits=['apple','banana','cherry']
-#print(fruits[1])
-#6
-#print(16%5) #1
-#7
-a=[10,20,30,40,50,66,90,234]
-#print(a.index(40))
-print(a.insert(60,2))
+ad=input('adinizi daxil edin')
+print(ad.title())
